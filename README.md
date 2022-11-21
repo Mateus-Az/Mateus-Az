@@ -17,6 +17,6 @@ Tenho conhecimento relevante com a linguagem <strong>Java</strong>, algumas de s
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="24" data-line-end="26">| Contato | 🫡<br>
-Fique à vontade para entrar em contato através do meu E-mail <strong>mateo.azv3@gmail.com</strong>
+Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv3@gmail.com</strong>
 </blockquote>
 <hr>
