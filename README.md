@@ -20,4 +20,4 @@ Tenho conhecimento relevante com a linguagem <strong>Java</strong>, algumas de s
 Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv3@gmail.com</strong>
 </blockquote>
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-az&show_icons=true&theme=highcontrast&locale=en" alt="mateus-az" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-az&show_icons=true&theme=dracula&title_color=f93434&text_color=ffffff&locale=en" alt="mateus-az" /></p>
