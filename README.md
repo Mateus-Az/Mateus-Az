@@ -1,23 +1,34 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1><a id="Python__WebDev_0"></a> Analista e Desenvolvedor de Sistemas </h1>
-<h3 class="code-line" data-line-start=0 data-line-end=1><a id="Python__WebDev_0"></a> Back-end </h3>
+
+<h1 style="text-align:center">Mateus, Desenvolvedor focado no Back-end Java 🚀</h1>
+<img src="https://media.tenor.com/R391on5g6NwAAAAd/photon.gif" width="300px" min-width="300px" max-width="300px" align="right" alt="Gif do sabre de luz">
+<p></p>
 <blockquote>
-<p class="has-line-data" data-line-start="9" data-line-end="11">| Sobre Mim | 🙃<br>
-Sempre fui muito curioso e amante da tecnologia, acompanho várias pessoas importantes nesse meio, mas foi em Janeiro de 2022, que atráves de uma conversa com uma colega que trabalhava com programação me apresentou esse "Mundo", fui investigar e aqui estou, trilhando meu caminho.</p>
+<p>| Sobre Mim | 🙃<br>
+Sempre fui muito curioso e amante da tecnologia, acompanhando diversas pessoas importantes nesse meio. Foi no inicio de 2022, que ouvi falar sobre esse "Mundo" da programação e acabei ficando fascinado pelas infinitas possibilidades. Desde então venho estudado, realizado diversos cursos, criado projetos e resolvendo desafios.</p>
 </blockquote>
 <hr>
 <blockquote>
-<p class="has-line-data" data-line-start="14" data-line-end="16">| Formação | 📖<br>
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Descomplica e realizando alguns na <a href="https://cursos.alura.com.br/user/mateo-azv3/fullCertificate/b1e0f9532a924a040dd6086bbd979890" target="_blank"><strong>Alura</strong></a>.</p>
+<p>| Formação | 📚<br>
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Descomplica, cursando a especialização em back-end java pela <strong>Ebac</strong> que é uma referência no setor de cursos de tecnologia junto ao alura onde realizo alguns cursos
 </blockquote>
 <hr>
 <blockquote>
-<p class="has-line-data" data-line-start="19" data-line-end="21">| Progresso | 🚀<br>
-Tenho conhecimento relevante com a linguagem <strong>Java</strong>, algumas de suas Apis, java.lang, java.util, java.io, Java Collections; Versionamento de código Git e GitHub, Java 8, tenho um conhecimento básico em Html, Css e Javascript; Atualmente estou estudando Python e Banco de dados.
+<p>| Progresso | 🚀<br>
+Estou aprendendo sobre força de Java e estou trilhando meu caminho no Caminho Jedi do Desenvolvimento Back end. Tenho conhecimento relevante com a linguagem Java e de suas APIs, como java.lang, java.util, java.io, Java Collections. Além disso, tenho conhecimento em versionamento de código Git e GitHub, Banco de dados Relacional como o PostgreSQL e não Relacional MongoDB, testes unitários e de integração com o uso do JUnit e Alguns Frameworks.</p>
 </blockquote>
 <hr>
 <blockquote>
-<p class="has-line-data" data-line-start="24" data-line-end="26">| Contato | 🫡<br>
-Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv3@gmail.com</strong>
+<p>| Contato | 📞<br>
+Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv3@gmail.com</strong>.</p>
 </blockquote>
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-az&show_icons=true&theme=dracula&title_color=f93434&text_color=ffffff&locale=en" alt="mateus-az" /></p>
+<p align="center">
+  <div align="left">
+  <a href="https://www.linkedin.com/in/mateus-a-5b42b9239/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+  </a>
+</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mateus-az&show_icons=true&theme=dracula&title_color=f93434&text_color=ffffff&locale=en" alt="mateus-az" />
+</p></p>
+</br>
+
