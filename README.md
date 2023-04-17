@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/R391on5g6NwAAAAd/photon.gif" width="300px" min-width="300px" max-width="300px" align="right" alt="Gif do sabre de luz">
 <p></p>
 <blockquote>
-<p>| Sobre Mim | 🙃<br>
+<p>| Sobre Mim | 📜<br>
 Sempre fui muito curioso e amante da tecnologia, acompanhando diversas pessoas importantes nesse meio. Foi no inicio de 2022, que ouvi falar sobre esse "Mundo" da programação e acabei ficando fascinado pelas infinitas possibilidades. Desde então venho estudado, realizado diversos cursos, criado projetos e resolvendo desafios.</p>
 </blockquote>
 <hr>
@@ -14,7 +14,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Descomplic
 <hr>
 <blockquote>
 <p>| Progresso | 🚀<br>
-Estou aprendendo sobre força de Java e estou trilhando meu caminho no Caminho Jedi do Desenvolvimento Back end. Tenho conhecimento relevante com a linguagem Java e de suas APIs, como java.lang, java.util, java.io, Java Collections. Além disso, tenho conhecimento em versionamento de código Git e GitHub, Banco de dados Relacional como o PostgreSQL e não Relacional MongoDB, testes unitários e de integração com o uso do JUnit e Alguns Frameworks.</p>
+Estou aprendendo sobre força do Java e estou trilhando o Caminho Jedi do Desenvolvimento Back end. Tenho conhecimento relevante com a linguagem Java e de suas APIs, como java.lang, java.util, java.io, Java Collections. Além disso, tenho conhecimento em versionamento de código Git e GitHub, Banco de dados Relacional como o PostgreSQL e não Relacional MongoDB, testes unitários e de integração com o uso do JUnit e Alguns Frameworks.</p>
 </blockquote>
 <hr>
 <blockquote>
