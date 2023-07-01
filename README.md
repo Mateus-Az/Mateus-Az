@@ -1,20 +1,20 @@
 
-<h1 style="text-align:center">Mateus, Desenvolvedor focado no Back-end Java 🚀</h1>
+<h1 style="text-align:center">Mateus, Desenvolvedor focado no Back-end 🚀</h1>
 <img src="https://media.tenor.com/R391on5g6NwAAAAd/photon.gif" width="300px" min-width="300px" max-width="300px" align="right" alt="Gif do sabre de luz">
 <p></p>
 <blockquote>
 <p>| Sobre Mim | 📜<br>
-Sempre fui muito curioso e amante da tecnologia, acompanhando diversas pessoas importantes nesse meio. Foi no inicio de 2022, que ouvi falar sobre esse "Mundo" da programação e acabei ficando fascinado pelas infinitas possibilidades. Desde então venho estudado, realizado diversos cursos, criado projetos e resolvendo desafios.</p>
+Sempre fui curioso e entusiasta da tecnologia, acompanhando diversas pessoas importantes nesse meio. Foi em 2022 que ouvi falar sobre esse "Mundo" da programação e acabei ficando fascinado pela proporção de possibilidades presentes nessa area. Desde então venho estudando, realizando alguns cursos, criado projetos e resolvendo desafios.</p>
 </blockquote>
 <hr>
 <blockquote>
 <p>| Formação | 📚<br>
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Descomplica, cursando a especialização em back-end java pela <strong>Ebac</strong> que é uma referência no setor de cursos de tecnologia junto ao alura onde realizo alguns cursos
+Atualmente estou cursando Ciências da Computação e realizando a especialização em Back-end Java pela <strong>Ebac</strong>, uma referência no setor de cursos de tecnologia, juntamente com o Alura, onde também realizo alguns cursos.</p>
 </blockquote>
 <hr>
 <blockquote>
 <p>| Progresso | 🚀<br>
-Estou aprendendo sobre força do Java e estou trilhando o Caminho Jedi do Desenvolvimento Back end. Tenho conhecimento relevante com a linguagem Java e de suas APIs, como java.lang, java.util, java.io, Java Collections. Além disso, tenho conhecimento em versionamento de código Git e GitHub, Banco de dados Relacional como o PostgreSQL e não Relacional MongoDB, testes unitários e de integração com o uso do JUnit e Alguns Frameworks.</p>
+Estou aprendendo sobre a força do Java e estou trilhando o caminho do Desenvolvimento Back-end. Tenho conhecimento relevante com a linguagem Java, além de ter conhecimentos em Spring Data, Spring Hateos, Spring Boot, Spring Security, Maven, Insomnia, Postman, API Rest, Legado, Monolito, Microservice, Docker, Kubernetes, Integrações, Git e GitHub, Draw.io, WildFly, RabbitMQ e Intellij. Também possuo conhecimentos em banco de dados relacionais, como o PostgreSQL, e não relacional, como o MongoDB. Além disso, tenho conhecimentos em desenvolvimento de testes unitários e de integração com o uso do JUnit e outros frameworks.</p>
 </blockquote>
 <hr>
 <blockquote>
