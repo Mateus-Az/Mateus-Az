@@ -1,4 +1,4 @@
-
+<!--
 <h1 style="text-align:center">Mateus, Desenvolvedor focado no Back-end 🚀</h1>
 <img src="https://media.tenor.com/R391on5g6NwAAAAd/photon.gif" width="300px" min-width="300px" max-width="300px" align="right" alt="Gif do sabre de luz">
 <p></p>
@@ -31,4 +31,7 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
   <img src="https://github-readme-stats.vercel.app/api?username=mateus-az&show_icons=true&theme=dracula&title_color=f93434&text_color=ffffff&locale=en" alt="mateus-az" />
 </p></p>
 </br>
+-->
+
+![Metrics](https://metrics.lecoq.io/Mateus-Az?template=classic&isocalendar=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
 
