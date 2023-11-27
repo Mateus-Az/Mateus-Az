@@ -33,5 +33,19 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
 </br>
 -->
 
-![Metrics](https://metrics.lecoq.io/Mateus-Az?template=classic&isocalendar=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
+![Metrics](/github-metrics.svg)
 
+<b>My GitHub Stats</b>
+<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Az&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true)](http://www.github.com/Mateus-Az)  [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mateus-Az&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Mateus-Az)
+
+## <center> skills:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,aws,docker,git,github,idea,maven,postgres,mongodb,mysql,js,ts,html,css,scss,angular,rabbitmq,postman,postgres,bootstrap,figma" />
+</div>
+
+## Estudando atualmente:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=sqlite,androidstudio,firebase,supabase,kotlin,kafka" />
+</div>
+<br>
