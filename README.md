@@ -32,7 +32,7 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
 </p></p>
 </br>
 -->
-<img src="" />
+<img src="https://github.com/Mateus-Az/Mateus-Az/blob/main/ss.gif" width="100%"/>
 
 <br>
 
