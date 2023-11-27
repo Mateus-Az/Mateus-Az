@@ -38,7 +38,12 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&color=4169E1&weight=700&size=48&center=true&vCenter=true&width=1000&lines=Mateus+Azevedo;Desenvolvedor+Full-Stack;Seja+bem+vindo!+ )](https://git.io/typing-svg)
 
-<br>
+<div align="center"> 
+<a href = "mailto:mateo.azv3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateoaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+   <img width="150px;" style="border-radius: 30px" src="https://komarev.com/ghpvc/?username=mateus-az&label=Profile%20views&color=49f34c&style=flat-square" alt="mateus-az" />
+ </div>
+ <br>
 
 ![Metrics](/github-metrics.svg)
 
