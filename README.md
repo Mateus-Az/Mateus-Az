@@ -32,12 +32,24 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
 </p></p>
 </br>
 -->
+<img src="" />
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&color=4169E1&weight=700&size=48&center=true&vCenter=true&width=1000&lines=Mateus+Azevedo;Desenvolvedor+Full-Stack;Seja+bem+vindo!+ )](https://git.io/typing-svg)
+
+<br>
 
 ![Metrics](/github-metrics.svg)
 
 <b>My GitHub Stats</b>
 <br>
+
+<div align="center">
+  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Az&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true)](http://www.github.com/Mateus-Az)  [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mateus-Az&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Mateus-Az)
+
+</div>
 
 ## <center> skills:
 <div align="center">
