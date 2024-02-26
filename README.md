@@ -9,7 +9,7 @@ Sempre fui curioso e entusiasta da tecnologia, acompanhando diversas pessoas imp
 <hr>
 <blockquote>
 <p>| Formação | 📚<br>
-Atualmente estou cursando Ciências da Computação e realizando a especialização em Back-end Java pela <strong>Ebac</strong>, uma referência no setor de cursos de tecnologia, juntamente com o Alura, onde também realizo alguns cursos.</p>
+Atualmente estou cursando Ciências da Computação e conclui a especialização em Back-end Java pela <strong>Ebac</strong>, uma referência no setor de cursos de tecnologia, também conclui anguns cursos na com o Alura.</p>
 </blockquote>
 <hr>
 <blockquote>
@@ -65,6 +65,6 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
 
 ## Estudando atualmente:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=sqlite,androidstudio,firebase,supabase,kotlin,kafka" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
 </div>
 <br>
