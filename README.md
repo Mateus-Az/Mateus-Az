@@ -42,7 +42,7 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
 <a href = "mailto:mateo.azv3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateoaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <img width="150px;" style="border-radius: 30px" src="https://komarev.com/ghpvc/?username=mateus-az&label=Profile%20views&color=49f34c&style=flat-square" alt="mateus-az" />
-<a href = "https://trentor.vercel.app/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  target="_blank"></a>
+<a href = "https://trentor.com.br/"> <img src="https://img.shields.io/badge/startup-000000?style=for-the-badge&logo=About.me&logoColor=white"  target="_blank"></a>
   
  </div>
  <br>
