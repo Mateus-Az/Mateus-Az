@@ -65,6 +65,6 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
 
 ## Estudando atualmente:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=rust" />
 </div>
 <br>
