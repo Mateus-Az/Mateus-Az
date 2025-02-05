@@ -54,7 +54,9 @@ Fique à vontade para entrar em contato através do meu e-mail <strong>mateo.azv
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Az&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true)](http://www.github.com/Mateus-Az)  [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mateus-Az&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Mateus-Az)
+![Mateus-Az's Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Az&theme=react&show_icons=true&hide_border=true&count_private=true)<!-- [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mateus-Az&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Mateus-Az) -->
+[![GitHub Streak](https://streak-stats-jade.vercel.app?user=Mateus-Az&theme=react&hide_border=true)](https://git.io/streak-stats)
+
 
 </div>
 
